@@ -20,10 +20,10 @@ dashboard using a full BI pipeline.
 ## Key Findings
 - November peak revenue: £1.5M (+78% year-on-year)
 - UK = ~75% of £10.6M total revenue across 38 countries
-- No Saturday trading — confirms pure B2B wholesale business
-- USA flagged at ~38% return rate — highest risk market
-- Average order value: £484 — confirms bulk wholesale behaviour
-- Overall return rate: 1.71% — healthy for wholesale retail
+- No Saturday trading - confirms pure B2B wholesale business
+- USA flagged at ~38% return rate - highest risk market
+- Average order value: £484 - confirms bulk wholesale behaviour
+- Overall return rate: 1.71% - healthy for wholesale retail
 
 ## Dashboard Pages
 | Page | What It Shows |

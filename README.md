@@ -4,14 +4,10 @@
 A complete end-to-end Business Intelligence project from 541,909 rows
 of raw retail data to a 6-page executive Power BI dashboard.
 
--
-
 ## What This Project Does
 Transforms raw transactional CSV data into a professional executive
 dashboard using a full BI pipeline — Python for ingestion, SQL Server
 for warehousing, and Power BI for reporting.
-
--
 
 ## Project Architecture
 
@@ -25,31 +21,25 @@ for warehousing, and Power BI for reporting.
 | Day 6 | 6-page executive dashboard built |
 | Day 7 | Dashboard polished with slicers, insights, and CEO recommendations |
 
--
-
 ## Key Findings
 
 - November peak revenue: £1.5M (+78% year-on-year)
-- UK = ~75% of £10.6M total revenue across 38 countries
-- No Saturday trading — confirms pure B2B wholesale business
-- USA flagged at ~38% return rate — highest risk market
-- Average order value: £484 — confirms bulk wholesale behaviour
-- Overall return rate: 1.71% — healthy for wholesale retail
-
--
+- UK = 75% of £10.6M total revenue across 38 countries
+- No Saturday trading - confirms pure B2B wholesale business
+- USA flagged at ~38% return rate - highest risk market
+- Average order value: £484 - confirms bulk wholesale behaviour
+- Overall return rate: 1.71% - healthy for wholesale retail
 
 ## Dashboard Pages
 
 | Page | What It Shows |
 |------|--------------|
 | Executive Summary | 4 KPI cards + revenue trend line chart |
-| Sales Trends | Monthly revenue + day-of-week analysis |
+| Sales Trends | Monthly revenue + day of week analysis |
 | Product Performance | Top 10 products by revenue |
 | Customer & Geography | World map + top 10 countries |
 | Returns Analysis | Return rate trends + highest-risk markets |
 | Key Insights | CEO-level recommendations |
-
--
 
 ## Screenshots
 
@@ -59,8 +49,6 @@ for warehousing, and Power BI for reporting.
 ![Customer Geography](customer-geography.png)
 ![Returns Analysis](returns-analysis.png)
 ![Key Insights](key-insights.png)
-
--
 
 ## Files in This Repo
 
@@ -76,8 +64,6 @@ for warehousing, and Power BI for reporting.
 > GitHub's file size limit. The three scripts above contain all the
 > core logic needed to fully recreate the data warehouse from scratch.
 
--
-
 ## Dataset
 
 The dataset used is the **Online Retail Transactions (UCI)** dataset.
@@ -87,8 +73,6 @@ The dataset used is the **Online Retail Transactions (UCI)** dataset.
 Once downloaded, save the CSV as `C:\Data\online_retail.csv` and run
 `load_data.py` to load it into SQL Server.
 
--
-
 ## Power BI Dashboard
 
 Download `OnlineRetail_BI_Darrell.pbix` from this repo and open it
@@ -96,8 +80,6 @@ in **Power BI Desktop** (free download from Microsoft).
 
 Once open, go to **Transform Data → Data Source Settings** and update
 the server name to your local SQL Server instance.
-
--
 
 ## How to Run This Project
 
@@ -120,12 +102,10 @@ the server name to your local SQL Server instance.
 7. Open `OnlineRetail_BI_Darrell.pbix` in Power BI Desktop
 8. Update the SQL Server connection to your local instance
 
--
-
 ## Built By
 
 **Darrell Velenkosini Nkosi**
-BCIS Honours Student — University of the Free State
+BCIS Honours Student - University of the Free State
 IBM Award (2024) | BBD Award (2025) | Graduated with Distinction (2026)
 
 [Portfolio](https://darrellnkosi.vercel.app) | [LinkedIn](https://www.linkedin.com/in/darrell-nkosi-86797a28b) | [GitHub](https://github.com/VelenkosiniNkosi)

@@ -9,13 +9,13 @@ Transforms raw transactional CSV data into a professional executive
 dashboard using a full BI pipeline.
 
 ## Project Architecture
-- **Day 1** — Python ETL: 541,909 rows loaded into SQL Server staging table
-- **Day 2** — Star schema designed: DimDate, DimCustomer, DimProduct, FactSales
-- **Day 3** — Full ETL: 541,799 clean rows, £10,644,560.42 revenue validated, 0 orphaned keys
-- **Day 4** — 5 analytical SQL views built in rpt schema
-- **Day 5** — Power BI connected, 9 DAX measures written and validated
-- **Day 6** — 6-page executive dashboard built
-- **Day 7** — Dashboard polished with slicers, insights, and CEO recommendations
+- **Day 1** - Python ETL: 541,909 rows loaded into SQL Server staging table
+- **Day 2** - Star schema designed: DimDate, DimCustomer, DimProduct, FactSales
+- **Day 3** - Full ETL: 541,799 clean rows, £10,644,560.42 revenue validated, 0 orphaned keys
+- **Day 4** - 5 analytical SQL views built in rpt schema
+- **Day 5** - Power BI connected, 9 DAX measures written and validated
+- **Day 6** - 6-page executive dashboard built
+- **Day 7** - Dashboard polished with slicers, insights, and CEO recommendations
 
 ## Key Findings
 - November peak revenue: £1.5M (+78% year-on-year)
@@ -60,7 +60,7 @@ dashboard using a full BI pipeline.
 
 ## Built By
 **Darrell Velenkosini Nkosi**
-BCIS Honours Student — University of the Free State
+BCIS Honours Student - University of the Free State
 IBM Award (2024) | BBD Award (2025)
 [Portfolio](https://darrellnkosi.vercel.app) | 
 [LinkedIn](https://www.linkedin.com/in/darrell-nkosi-86797a28b)

@@ -6,7 +6,7 @@ of raw retail data to a 6-page executive Power BI dashboard.
 
 ## What This Project Does
 Transforms raw transactional CSV data into a professional executive
-dashboard using a full BI pipeline — Python for ingestion, SQL Server
+dashboard using a full BI pipeline - Python for ingestion, SQL Server
 for warehousing, and Power BI for reporting.
 
 ## Project Architecture

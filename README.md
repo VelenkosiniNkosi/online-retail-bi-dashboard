@@ -51,12 +51,12 @@ dashboard using a full BI pipeline.
 6. Update the SQL Server connection to your local instance
 
 ## Screenshots
-![Executive Summary](screenshots/EXECUTIVE%20SUMMARY.png)
-![Sales Trends](screenshots/SALES%20TRENDS.png)
-![Product Performance](screenshots/PRODUCT%20PERFORMANCE.png)
-![Customer Geography](screenshots/CUSTOMER%20%26%20GEOGRAPHY.png)
-![Returns Analysis](screenshots/RETURNS%20ANALYSIS.png)
-![Key Insights](screenshots/KEY%20INSIGHTS.png)
+![Executive Summary](executive-summary.png)
+![Sales Trends](sales-trends.png)
+![Product Performance](product-performance.png)
+![Customer Geography](customer-geography.png)
+![Returns Analysis](returns-analysis.png)
+![Key Insights](key-insights.png)
 
 ## Built By
 **Darrell Velenkosini Nkosi**

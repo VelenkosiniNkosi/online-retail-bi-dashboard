@@ -1,7 +1,7 @@
 # Online Retail BI Dashboard
 **Tools:** Python · SQL Server · Power BI · DAX · Star Schema · ETL
 
-A complete end-to-end Business Intelligence project — from 541,909 rows 
+A complete end-to-end Business Intelligence project from 541,909 rows 
 of raw retail data to a 6-page executive Power BI dashboard.
 
 ## What This Project Does
